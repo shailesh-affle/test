@@ -12,10 +12,10 @@ Introduction
 
 The Link test [Here you can go to google][1] 
 
-This link tranfer you on [camera Manager]
+This link tranfer you on [camera Manager] Open Camera
 
-
-Screenshots
+[1] http://www.google.com
+[2] https://developer.android.com/reference/android/hardware/camera2/CameraManager.html#openCamera(java.lang.String, android.hardware.camera2.CameraDevice.StateCallback, android.os.Handler)Screenshots
 -------------
 
 <img src="screenshots/main.png" height="400" alt="Screenshot"/> 
